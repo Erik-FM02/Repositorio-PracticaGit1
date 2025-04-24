@@ -14,3 +14,7 @@ services:
   cristobal:
     build: ./cristobal
     container_name: cristobal
+
+  jesus:
+    build: ./jesus_ojeda
+    container_name: jesus_ojeda
