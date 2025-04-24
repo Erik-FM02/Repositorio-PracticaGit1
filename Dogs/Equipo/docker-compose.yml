@@ -10,3 +10,7 @@ services:
   salva-lopez:
     build: ./Salva-Lopez
     container_name: Salva-Lopez
+
+  cristobal:
+    build: ./cristobal
+    container_name: cristobal
