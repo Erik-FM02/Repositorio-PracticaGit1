@@ -21,3 +21,7 @@ services:
       context: ./Héctor
     container_name: héctor_container
 
+  Lucía:
+    build:
+      context: ./Lucía
+    container_name: lucia_container
