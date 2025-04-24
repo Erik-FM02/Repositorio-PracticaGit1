@@ -15,3 +15,9 @@ services:
     build:
       context: ./Antonio
     container_name: antonio_container
+
+  Héctor:
+    build:
+      context: ./Héctor
+    container_name: héctor_container
+
