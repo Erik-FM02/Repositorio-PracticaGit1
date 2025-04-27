@@ -1,0 +1,4 @@
+FROM alpine:latest
+COPY saludo.sh /saludo.sh
+RUN chmod +x /saludo.sh
+CMD ["/saludo.sh"]
