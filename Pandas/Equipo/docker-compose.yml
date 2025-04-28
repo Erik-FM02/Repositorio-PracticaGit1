@@ -5,3 +5,6 @@ services:
     build: ../Pandas/Equipo/DavidMacias
     container_name: davidmacias
 
+  ernestogem:
+    build: ../Pandas/Equipo/ernestogem
+
